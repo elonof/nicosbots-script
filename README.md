@@ -13,16 +13,7 @@ _/ __ \|  |  /  _ \ /    \ /  _ \   /  _ \ /    \  \   __\/  _ \\____ \
  \___  >____/\____/|___|  /\____/   \____/|___|  /  |__|  \____/|   __/ 
      \/                 \/                     \/               |__|    
 
-The Best Streamable 8-Ball Pool Online Script.
-
-]]
-
---[[
-
-LOCKED AND SECURED by SecuriFy™
-
-https://discord.gg/NvCwNtTCH3
-https://dsc.gg/empifyutility
+The Best nicosbot script
 
 ]]
 
